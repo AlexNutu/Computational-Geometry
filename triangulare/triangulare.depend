@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1483386808 source:c:\users\alex nutu\desktop\triangulare\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<vector>
+	<fstream>
+	<math.h>
+	"Triangulare.h"
+
+1483386808 c:\users\alex nutu\desktop\triangulare\triangulare.h
+	<iostream>
+	<SFML/Graphics.hpp>
+	<vector>
+	<fstream>
+	<math.h>
+
